@@ -5,5 +5,9 @@
 
 ## Basic Usage
 
-<code>python3 CVSS_calc.py</code>
+<code>py CVSS_calc.py</code>
+
+<img src="https://github.com/vtrmK/CVSS-Calculator/blob/main/usage.gif" alt="edit-code-animated" style="max-width:100%;">
+
+
 
