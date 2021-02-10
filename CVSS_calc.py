@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # Title           :cvss_calc.py
-# Description     :This will create a header for a python script.
+# Description     :Script to convert CVSS data from Nessus output
 # Author          :Victor Mielke
 # Date            :25/10/2020
 # Version         :1.0
